@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8_Starter",
+    "short_name": "Chuheng Xi",
+    "description": "Recipes website",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#f0f0f0",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
